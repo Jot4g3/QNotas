@@ -1,4 +1,4 @@
-#**QNOTAS**
+# **QNOTAS**
 ## QNotas é um aplicativo desenvolvido para o uso de estudantes, contém funções diversas, como:
 * ### Cálculo de média da etapa, final e após AF;
 #### Se você gosta de consultar suas médias em diferentes matérias, este aplicativo é para você!
