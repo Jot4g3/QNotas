@@ -8,3 +8,5 @@
 #### Se você ficou de AF, o QNotas calcula quanto você precisa tirar na AF para passar!
 * ### Proporcionalizar nota
 #### Se você fez uma prova de 47 escores e obteve 31.5, no sistema de 0 a 10, quanto seria? O sistema calcula isso para você!
+
+###Você pode baixar o QNotas pelo [meu site](https://jotage.netlify.app/) também!
